@@ -12,7 +12,7 @@ Click the green **Code** button at the top of this repo, then **Download ZIP**. 
 
 **Option 2: Releases**
 
-Go to the [Releases](https://github.com/stephenturner/skill-brand-yml/releases) page and download the latest `.skill` file. Add it to your Claude skills in [Settings/Capabilities](https://claude.ai/settings/capabilities) on the web, or double-click it if you have Claude Desktop installed.
+Go to the [Releases](https://github.com/stephenturner/skill-brand-yml/releases) page and download the latest `.skill` file. Add it to your Claude skills in [customize/skills](https://claude.ai/customize/skills) on the web, or double-click it if you have Claude Desktop installed.
 
 **Option 3: Build it yourself**
 
