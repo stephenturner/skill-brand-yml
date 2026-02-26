@@ -4,6 +4,8 @@ A [Claude skill](https://code.claude.com/docs/en/skills) that generates [`_brand
 
 The skill's specification reference is adapted from the [brand-yml LLM prompt](https://posit-dev.github.io/brand-yml/articles/llm-brand-yml-prompt/).
 
+See [my recent blog post here](https://doi.org/10.59350/f9dyf-zwc64) for more details.
+
 ## Installation
 
 **Option 1: Download ZIP**
